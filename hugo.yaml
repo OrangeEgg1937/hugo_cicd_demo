@@ -1,4 +1,5 @@
-baseURL: https://example.org/
+baseURL: https://orangeegg1937.github.io/hugo_cicd_demo/
+canonifyURLs: true
 languageCode: en-us
 title: My New Hugo Site
 theme: ["PaperMod"]
