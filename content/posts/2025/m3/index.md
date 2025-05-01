@@ -1,7 +1,7 @@
 ---
 author: ["Sample archetypes"]
-title: '{{ replace .File.ContentBaseName `-` ` ` | title }}'
-date: '{{ .Date }}'
+title: 'M3'
+date: '2025-05-01T19:16:02Z'
 description: "Sample archetypes"
 summary: "Sample archetypes"
 tags: ["archetypes", "demo"]
@@ -16,3 +16,5 @@ fediverse_creator: "@adityatelange@mastodon.social"
 ### Hello World
 
 Sample archetypes
+
+![alt image](./images/demo.png)
