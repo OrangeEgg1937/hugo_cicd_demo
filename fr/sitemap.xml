@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://github.com/OrangeEgg1937/hugo_gh_action_demo/fr/frcategories/</loc>
+  </url><url>
+    <loc>https://github.com/OrangeEgg1937/hugo_gh_action_demo/fr/frseries/</loc>
+  </url><url>
+    <loc>https://github.com/OrangeEgg1937/hugo_gh_action_demo/fr/frtags/</loc>
+  </url><url>
+    <loc>https://github.com/OrangeEgg1937/hugo_gh_action_demo/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/OrangeEgg1937/hugo_gh_action_demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://github.com/OrangeEgg1937/hugo_gh_action_demo/fa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://github.com/OrangeEgg1937/hugo_gh_action_demo/fr/"
+                />
+  </url>
+</urlset>

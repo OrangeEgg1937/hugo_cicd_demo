@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://github.com/OrangeEgg1937/hugo_gh_action_demo/sitemap.xml
