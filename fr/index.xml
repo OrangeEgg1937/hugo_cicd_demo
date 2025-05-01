@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PaperModL2</title>
-    <link>https://github.com/OrangeEgg1937/hugo_gh_action_demo/fr/</link>
+    <link>https://orangeegg1937.github.io/hugo_gh_action_demo/fr/</link>
     <description>Recent content on PaperModL2</description>
     <image>
       <title>PaperModL2</title>
-      <url>https://github.com/OrangeEgg1937/hugo_gh_action_demo/images/hw.png</url>
-      <link>https://github.com/OrangeEgg1937/hugo_gh_action_demo/images/hw.png</link>
+      <url>https://orangeegg1937.github.io/hugo_gh_action_demo/images/hw.png</url>
+      <link>https://orangeegg1937.github.io/hugo_gh_action_demo/images/hw.png</link>
     </image>
     <generator>Hugo -- 0.147.1</generator>
     <language>fr</language>
     <copyright>OrangeEgg1937</copyright>
-    <atom:link href="https://github.com/OrangeEgg1937/hugo_gh_action_demo/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://orangeegg1937.github.io/hugo_gh_action_demo/fr/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

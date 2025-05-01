@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/OrangeEgg1937/hugo_gh_action_demo/</loc>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/</loc>
     <lastmod>2025-05-01T18:14:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://github.com/OrangeEgg1937/hugo_gh_action_demo/fr/"
+                href="https://orangeegg1937.github.io/hugo_gh_action_demo/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://github.com/OrangeEgg1937/hugo_gh_action_demo/fa/"
+                href="https://orangeegg1937.github.io/hugo_gh_action_demo/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/OrangeEgg1937/hugo_gh_action_demo/"
+                href="https://orangeegg1937.github.io/hugo_gh_action_demo/"
                 />
   </url><url>
-    <loc>https://github.com/OrangeEgg1937/hugo_gh_action_demo/posts/</loc>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/</loc>
     <lastmod>2025-05-01T18:14:08+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/OrangeEgg1937/hugo_gh_action_demo/archives/</loc>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/archives/</loc>
   </url><url>
-    <loc>https://github.com/OrangeEgg1937/hugo_gh_action_demo/categories/</loc>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/categories/</loc>
   </url><url>
-    <loc>https://github.com/OrangeEgg1937/hugo_gh_action_demo/search/</loc>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/search/</loc>
   </url><url>
-    <loc>https://github.com/OrangeEgg1937/hugo_gh_action_demo/series/</loc>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/series/</loc>
   </url><url>
-    <loc>https://github.com/OrangeEgg1937/hugo_gh_action_demo/tags/</loc>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/tags/</loc>
   </url>
 </urlset>
