@@ -2,8 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/categories/archetypes/</loc>
+    <lastmod>2025-05-01T19:16:04+00:00</lastmod>
+  </url><url>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/series/archetypes/</loc>
+    <lastmod>2025-05-01T19:16:04+00:00</lastmod>
+  </url><url>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/tags/archetypes/</loc>
+    <lastmod>2025-05-01T19:16:04+00:00</lastmod>
+  </url><url>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/categories/</loc>
+    <lastmod>2025-05-01T19:16:04+00:00</lastmod>
+  </url><url>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/categories/demo/</loc>
+    <lastmod>2025-05-01T19:16:04+00:00</lastmod>
+  </url><url>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/tags/demo/</loc>
+    <lastmod>2025-05-01T19:16:04+00:00</lastmod>
+  </url><url>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/2025/m4/</loc>
+    <lastmod>2025-05-01T19:16:04+00:00</lastmod>
+  </url><url>
     <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/</loc>
-    <lastmod>2025-05-01T18:14:08+00:00</lastmod>
+    <lastmod>2025-05-01T19:16:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -21,16 +42,25 @@
                 />
   </url><url>
     <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/</loc>
-    <lastmod>2025-05-01T18:14:08+00:00</lastmod>
+    <lastmod>2025-05-01T19:16:04+00:00</lastmod>
+  </url><url>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/series/</loc>
+    <lastmod>2025-05-01T19:16:04+00:00</lastmod>
+  </url><url>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/tags/</loc>
+    <lastmod>2025-05-01T19:16:04+00:00</lastmod>
+  </url><url>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/2025/m3/</loc>
+    <lastmod>2025-05-01T19:16:02+00:00</lastmod>
+  </url><url>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/2024/m2/</loc>
+    <lastmod>2025-05-01T19:15:54+00:00</lastmod>
+  </url><url>
+    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/2024/m1/</loc>
+    <lastmod>2025-05-01T19:15:46+00:00</lastmod>
   </url><url>
     <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/archives/</loc>
   </url><url>
-    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/categories/</loc>
-  </url><url>
     <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/search/</loc>
-  </url><url>
-    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/series/</loc>
-  </url><url>
-    <loc>https://orangeegg1937.github.io/hugo_gh_action_demo/tags/</loc>
   </url>
 </urlset>

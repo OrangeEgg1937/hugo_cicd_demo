@@ -12,6 +12,21 @@
     <generator>Hugo -- 0.147.1</generator>
     <language>en</language>
     <copyright>OrangeEgg1937</copyright>
+    <lastBuildDate>Thu, 01 May 2025 19:16:04 +0000</lastBuildDate>
     <atom:link href="https://orangeegg1937.github.io/hugo_gh_action_demo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archetypes</title>
+      <link>https://orangeegg1937.github.io/hugo_gh_action_demo/categories/archetypes/</link>
+      <pubDate>Thu, 01 May 2025 19:16:04 +0000</pubDate>
+      <guid>https://orangeegg1937.github.io/hugo_gh_action_demo/categories/archetypes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Demo</title>
+      <link>https://orangeegg1937.github.io/hugo_gh_action_demo/categories/demo/</link>
+      <pubDate>Thu, 01 May 2025 19:16:04 +0000</pubDate>
+      <guid>https://orangeegg1937.github.io/hugo_gh_action_demo/categories/demo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -12,7 +12,35 @@
     <generator>Hugo -- 0.147.1</generator>
     <language>en</language>
     <copyright>OrangeEgg1937</copyright>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 19:16:04 +0000</lastBuildDate>
     <atom:link href="https://orangeegg1937.github.io/hugo_gh_action_demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M4</title>
+      <link>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/2025/m4/</link>
+      <pubDate>Thu, 01 May 2025 19:16:04 +0000</pubDate>
+      <guid>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/2025/m4/</guid>
+      <description>Sample archetypes</description>
+    </item>
+    <item>
+      <title>M3</title>
+      <link>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/2025/m3/</link>
+      <pubDate>Thu, 01 May 2025 19:16:02 +0000</pubDate>
+      <guid>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/2025/m3/</guid>
+      <description>Sample archetypes</description>
+    </item>
+    <item>
+      <title>M2</title>
+      <link>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/2024/m2/</link>
+      <pubDate>Thu, 01 May 2025 19:15:54 +0000</pubDate>
+      <guid>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/2024/m2/</guid>
+      <description>Sample archetypes</description>
+    </item>
+    <item>
+      <title>M1</title>
+      <link>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/2024/m1/</link>
+      <pubDate>Thu, 01 May 2025 19:15:46 +0000</pubDate>
+      <guid>https://orangeegg1937.github.io/hugo_gh_action_demo/posts/2024/m1/</guid>
+      <description>Sample archetypes</description>
+    </item>
   </channel>
 </rss>
