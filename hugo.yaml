@@ -3,7 +3,7 @@
 baseURL: "https://github.com/OrangeEgg1937/hugo_gh_action_demo/"
 title: PaperMod
 copyright: "OrangeEgg1937"
-theme: [hugo-PaperMod]
+theme: [PaperMod]
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
