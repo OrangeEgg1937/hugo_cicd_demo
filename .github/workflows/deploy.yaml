@@ -6,12 +6,6 @@ on:
       - main  # Set a branch to deploy
   pull_request:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 jobs:
   deploy:
     runs-on: ubuntu-22.04
@@ -32,9 +26,9 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      # deploy ./public directory to the remote gh-pages branch.
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: deploy
-          force_orphan: true
+          publish_dir: ./public
