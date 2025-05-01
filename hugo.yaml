@@ -1,4 +1,4 @@
-baseURL: https://orangeegg1937.github.io/hugo_cicd_demo/
+baseURL: https://orangeegg1937.github.io/hugo_gh_action_demo/
 canonifyURLs: true
 languageCode: en-us
 title: My New Hugo Site
