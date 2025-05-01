@@ -12,6 +12,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
+canonifyURLs: true
 mainsections: ["posts", "papermod"]
 
 minify:
